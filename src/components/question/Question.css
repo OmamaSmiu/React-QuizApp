@@ -1,0 +1,9 @@
+.Content h1{
+    margin: 15px 0;
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: normal;
+    text-shadow: none;
+    text-transform: none;
+    text-align: left;
+}
